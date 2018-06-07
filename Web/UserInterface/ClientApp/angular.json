@@ -43,7 +43,7 @@
 							"extractCss": true,
 							"extractLicenses": true,
 							"namedChunks": false,
-							"optimization": false,
+							"optimization": true,
 							"outputHashing": "all",
 							"sourceMap": false,
 							"vendorChunk": false
@@ -60,7 +60,7 @@
 							"extractCss": true,
 							"extractLicenses": true,
 							"namedChunks": false,
-							"optimization": false,
+							"optimization": true,
 							"outputHashing": "all",
 							"sourceMap": false,
 							"vendorChunk": false
