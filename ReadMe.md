@@ -9,7 +9,7 @@
 * Entity Framework Core 2.1
 * C# 7.2
 * SPA (Single Page Application)
-* Angular 6.0.3
+* Angular 6.0.4
 * Typescript 2.7.2
 * HTML5
 * CSS3
