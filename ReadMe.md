@@ -40,15 +40,15 @@
 
 **Web:** This layer contains the user interface, responsible for interaction with the user to obtain and display data.
 
-**Application:** The layer is the main entry point of the application, which can be ASP.NET Core, ASP.NET MVC, ASP.NET Web API, Console, Windows Service, among others.
+**Application:** This layer is the main entry point of the application, which can be ASP.NET Core, ASP.NET MVC, ASP.NET Web API, Console, Windows Service, among others.
 
-**Domain:** The layer contains the requirements and the business logic, is the core of the application.
+**Domain:** This layer contains the requirements and the business logic, is the core of the application.
 
-**Infrastructure:** The layer isolates and abstracts the logic required for data persistence.
+**Infrastructure:** This layer isolates and abstracts the logic required for data persistence.
 
-**Model:** The layer is responsible for modeling the domain classes according with the business context.
+**Model:** This layer is responsible for modeling the domain classes according with the business context.
 
-**CrossCutting:** The layer provides generic features for the other layers.
+**CrossCutting:** This layer provides generic features for the other layers.
 
 **Tests:** It is responsible for testing individual units of the code, which can be a class, a method, an integration, a business rule, among others.
 
